@@ -331,7 +331,7 @@
 		<key>Scan</key>
 		<true/>
 		<key>ScreenResolution</key>
-		<string>2560x1440</string>
+		<string>1920x1080</string>
 	</dict>
 	<key>CPU</key>
 	<dict>
@@ -353,7 +353,7 @@
 				<key>device-id</key>
 				<data>cKEAAA==</data>
 				<key>layout-id</key>
-				<data>WgAAAA==</data>
+				<data>EgAAAA==</data>
 				<key>model</key>
 				<string>Cannon Lake PCH cAVS</string>
 				<key>AAPL,slot-name</key>
