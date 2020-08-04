@@ -24,5 +24,3 @@
   `关闭`
 - XHCI Handoff
   `USB程序/XHCI Handoff 开启`
-
-核显二阶段黑屏
