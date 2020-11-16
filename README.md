@@ -2,9 +2,9 @@
 
 # 黑苹果+技嘉-B360-M-AORUS-PRO+i3-8100
 
-# Clover 5120
+# Clover 5126
 
-# macOS Catalina 10.15.6 (19G73)
+# macOS Catalina 10.15.7
 
 - 安装时关闭 VT-d  
   `或 启动参数加 dart=0`

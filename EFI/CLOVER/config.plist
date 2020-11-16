@@ -299,7 +299,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>DefaultVolume</key>
-		<string>system</string>
+		<string>macos</string>
 		<key>NeverHibernate</key>
 		<false/>
 		<key>Legacy</key>
@@ -313,25 +313,31 @@
 		<key>XMPDetection</key>
 		<false/>
 		<key>Timeout</key>
-		<integer>0</integer>
+		<integer>5</integer>
 		<key>NeverDoRecovery</key>
 		<false/>
 	</dict>
 	<key>GUI</key>
 	<dict>
-		<key>ShowOptimus</key>
+		<key>Hide</key>
+		<array>
+			<string>Preboot</string>
+		</array>
+		<key>KbdPrevLang</key>
 		<false/>
+		<key>PlayAsync</key>
+		<true/>
+		<key>ScreenResolution</key>
+		<string>2560x1400</string>
+		<key>Scan</key>
+		<true/>
 		<key>Mouse</key>
 		<dict>
 			<key>Mirror</key>
 			<false/>
 		</dict>
-		<key>KbdPrevLang</key>
+		<key>ShowOptimus</key>
 		<false/>
-		<key>Scan</key>
-		<true/>
-		<key>ScreenResolution</key>
-		<string>1920x1080</string>
 	</dict>
 	<key>CPU</key>
 	<dict>
