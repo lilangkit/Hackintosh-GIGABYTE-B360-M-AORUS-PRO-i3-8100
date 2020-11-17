@@ -328,7 +328,7 @@
 		<key>PlayAsync</key>
 		<true/>
 		<key>ScreenResolution</key>
-		<string>2560x1400</string>
+		<string>1920x1080</string>
 		<key>Scan</key>
 		<true/>
 		<key>Mouse</key>
