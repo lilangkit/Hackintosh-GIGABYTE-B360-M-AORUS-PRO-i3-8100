@@ -2,7 +2,7 @@
 
 # 黑苹果+技嘉-B360-M-AORUS-PRO+i3-8100
 
-# Clover 5126
+# Clover 5123.1
 
 # macOS Catalina 10.15.7
 
